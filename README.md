@@ -1,2 +1,2 @@
 # CC
-Cloud Computing projects 
+Cloud Computing project - Incomplete(Lambda CORS)
